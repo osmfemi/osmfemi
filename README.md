@@ -1,4 +1,5 @@
-Hi, I’m @osmfemi
+Hi, I’m Oscar
+
 I’m interested in UI/UX, Programming and Gaming
 I’m currently learning C/C++, SwiftUI, Assembly and React (Native)
 

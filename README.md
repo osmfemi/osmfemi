@@ -1,7 +1,7 @@
 Hi, I’m Oscar
 
 I’m interested in UI/UX, Programming and Gaming
-I’m currently learning C/C++, SwiftUI, Assembly and React (Native)
+I’m currently learning C/C++ and x86/ARM Assembly
 
 
 <!---

@@ -1,7 +1,8 @@
 Hi, I’m Oscar
 
-I’m interested in UI/UX, Programming and Gaming
-I’m currently learning C/C++ and x86/ARM Assembly
+IT apprentice and hobby developer
+Languages: C#, Visual Basic, C/C++, Swift, Java
+Interested in UI/UX design and game development 🎮
 
 
 <!---
